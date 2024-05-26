@@ -1,0 +1,21 @@
+/* .main-outer-container{
+    width: 300px;
+    border: 2px solid red;
+    position: relative;
+} */
+.main-outer-container {
+    /* height: 500px; */
+    width: 300px;
+    border: 2px solid red;
+    position: relative;
+   
+}
+
+.heading{
+    border: 2px solid blue;
+    background-color: aqua;
+    position: sticky;
+    top: 50;
+    /* bottom: 0px; */
+    /* right: 0; */
+}

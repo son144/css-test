@@ -1,0 +1,38 @@
+.img-container{
+    border: 1px solid red;
+    width: 800px;
+    height: 400px;
+}
+img{
+height: 100%;
+width: 100%;
+    object-fit:contain;
+    object-position: center;
+
+}
+p{
+text-transform: capitalize;
+/* text-transform: lowercase; */
+/* text-transform: uppercase; */
+/* text-transform: none; */
+}
+.tranfrorm-container{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+}
+.transform{
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+    /* transform: scale(2, 0.5); */
+    /* transform: skew(20deg, 40deg); */
+    /* transform: translate(50%,50%); */
+    transition: 1s ease;
+}
+.transform:hover{
+
+
+}
+
+
